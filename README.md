@@ -15,6 +15,9 @@ Requirements
 9) Acrylic Sheet - (Offline Store)
 10) DC Power Switch 
 
+Creator:
+Tamzid Ahmed Fahim
+
 
 Donation:
 1. Riazul Haque Rana
