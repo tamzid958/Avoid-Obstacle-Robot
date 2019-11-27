@@ -1,0 +1,2 @@
+# Avoid-Obstacle-Robot
+Obstacle avoidance is one of the most important aspects of mobile robotics. Without it robot movement would be very restrictive and fragile. This tutorial explains obstacle avoidance using ultrasonic sensors. This project also presents a dynamic steering algorithm which ensures that the robot doesn't have to stop in front of an obstacle which allows robot to navigate smoothly in an unknown environment, avoiding collisions.
